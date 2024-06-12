@@ -1,0 +1,7 @@
+#in::-webkit-inner-spin-button,
+#in::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  width: 40px;
+  height: 60px;
+}

@@ -1,0 +1,18 @@
+hr{
+    margin: 0;
+    border: none;
+    width: 80%;
+    border-radius: 10px;
+    height: 4px;
+    background: red;
+}
+.lst {
+    text-decoration: none;
+    color: black;
+}
+.lst:hover{
+    color: red;
+}
+/* .btn{
+    padding: 10px;
+} */

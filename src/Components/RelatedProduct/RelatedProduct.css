@@ -1,0 +1,10 @@
+.related-product{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 90vh;
+}
+.related-product h1{
+    color: #171717;
+}

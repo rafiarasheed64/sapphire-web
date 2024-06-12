@@ -1,0 +1,19 @@
+.overflow-hidden{
+    height: 83vh;
+}
+.imgg{
+ border-radius: 20px;
+}
+/* .ull:hover{
+  background-color: rgba(63, 62, 62, 0.425);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+} */
+
+  
+  .imgg:hover .overlay {
+    opacity: 1;
+  }
+  
+  /* Add any additional styles you need */
+  

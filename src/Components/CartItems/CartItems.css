@@ -1,0 +1,24 @@
+.cartitem{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 20px 0;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn{
+    width: 64px;
+    height: 50px;
+    border: 2px solid #ebebeb;
+    background-color: #fff;
+
+}
+.proceedbutton{
+    width: 50%;
+    padding: 10px 20px;
+    background-color: #ff5050;
+    color: white;
+    border: none;
+}
